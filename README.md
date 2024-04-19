@@ -5,7 +5,7 @@
 ыполнив следующие команды:
 
 ls -l /var/www/html/
-echo '<h1>Hello, World!</h1>' > /var/www/html/index.html
+echo 'Hello, World!' > /var/www/html/index.html
 я увидел как стартовая страница apache изменилась на текст "Hello,world"
 
 
